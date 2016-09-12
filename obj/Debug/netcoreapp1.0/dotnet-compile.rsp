@@ -1,5 +1,5 @@
---temp-output:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\obj\Debug\netcoreapp1.0\
---out:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\bin\Debug\netcoreapp1.0\BasicAuthentication.dll
+--temp-output:C:\Users\epicodus\Desktop\BasicAuthenticationCore\obj\Debug\netcoreapp1.0\
+--out:C:\Users\epicodus\Desktop\BasicAuthenticationCore\bin\Debug\netcoreapp1.0\BasicAuthenticationCore.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -8,7 +8,7 @@
 --suppress-warning:CS1705
 --optimize:False
 --emit-entry-point:True
---output-name:BasicAuthentication
+--output-name:BasicAuthenticationCore
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -197,8 +197,13 @@
 --reference:C:\Users\epicodus\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\obj\Debug\netcoreapp1.0\BasicAuthenticationdotnet-compile.deps.json",BasicAuthentication.deps.json
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\Program.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\Startup.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\Models\ApplicationDbContext.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\BasicAuthentication\Models\ApplicationUser.cs
+--resource:"C:\Users\epicodus\Desktop\BasicAuthenticationCore\obj\Debug\netcoreapp1.0\BasicAuthenticationCoredotnet-compile.deps.json",BasicAuthenticationCore.deps.json
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Program.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Startup.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Controllers\AccountController.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Migrations\20160912223515_Initial.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Migrations\20160912223515_Initial.Designer.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Models\ApplicationDbContext.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\Models\ApplicationUser.cs
+C:\Users\epicodus\Desktop\BasicAuthenticationCore\ViewModels\RegisterViewModel.cs
